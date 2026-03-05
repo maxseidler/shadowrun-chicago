@@ -1,5 +1,9 @@
+![logo](/images/sr_logo_white.webp)
+
 # Shadowrun Chicago
 
-Chicago-Kampagne für Shadowrun 6. Edition aa
+[Reiseführer Chicago](sub_pages/chicago_overview.md.md)
 
-![alt text](sr_logo.jpg)
+## Die Zone
+
+![Karte der Zone](/images/die_zone.png)

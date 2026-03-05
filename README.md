@@ -2,7 +2,7 @@
 
 # Shadowrun Chicago
 
-[Reiseführer Chicago](sub_pages/chicago_overview.md.md)
+[Reiseführer Chicago](sub_pages/chicago_overview.md)
 
 ## Die Zone
 
